@@ -24,6 +24,6 @@ Data/ : contains raw dataset files
 
 ## Current Status
 
-Dataset Selected and reviewed
-Initial project structure created
-Documentation in progress
+- Dataset Selected and reviewed
+- Initial project structure created
+- Documentation in progress
