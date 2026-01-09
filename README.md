@@ -17,3 +17,13 @@ It includes information such as date and time, latitude, longitude, depth, magni
 
 The objective of this project is to analyze earthquake data to understand seismic activity patterns, frequency of earthquakes, magnitude distribution, and high-risk zones.
 The insights derived from this analysis can help support disaster preparedness, risk assessment, early warning systems, and public safety planning.
+
+## Project Structure
+
+Data/ : contains raw dataset files
+
+## Current Status
+
+Dataset Selected and reviewed
+Initial project structure created
+Documentation in progress
