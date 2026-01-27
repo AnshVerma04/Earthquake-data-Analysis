@@ -19,7 +19,7 @@ For this task, I worked with a real-world earthquake dataset containing informat
 The dataset includes details such as earthquake magnitude, depth, latitude, longitude, location, and date/time of occurrence.
 
 **Dataset Source:**
-https://raw.githubusercontent.com/MainakRepositor/Datasets/master/Earthquake%20data.csv
+https://raw.githubusercontent.com/MainakRepositor/Datasets/refs/heads/master/earthquakes.csv
 
 ## Why i chose this dataset
 
