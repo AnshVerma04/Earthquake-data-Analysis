@@ -50,7 +50,7 @@ by this dataset, we can try to answer questions like?
 
 ![Task 1 PPT](Images/DataSet.png)
 
-### PT Documentation
+### Import Data Set
 
 ![Dataset Preview](Images/import.png)
 
