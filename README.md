@@ -1,9 +1,13 @@
 # VAUTECH IT SOLUTIONS – TASK 1
 
 **Intern:** Ansh Verma
+
 **Intern ID:** VT26DS001
+
 **Domain:** Data Science
-**Company:** VAUTECH IT SOLUTIONS  
+
+**Company:** VAUTECH IT SOLUTIONS
+
 **Mentor:** Vishal Rajbhar
 
 ---
