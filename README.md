@@ -1,29 +1,66 @@
-# Earthquake Data Analysis
+# VAUTECH IT SOLUTIONS – TASK 1
 
-## Domain
+**Intern:** Ansh Verma
+**Intern ID:** VT26DS001
+**Domain:** Data Science
+**Company:** VAUTECH IT SOLUTIONS  
+**Mentor:** Vishal Rajbhar
 
-Geoscience / Disaster Management
+---
 
-## Dataset
+## Task: Understanding EarthQuake Data
 
-The dataset is used to study the occurrence, magnitude, depth, and geographical distribution of earthquakes across different regions and time periods.
-It includes information such as date and time, latitude, longitude, depth, magnitude, location, and seismic event type.
+For this task, I worked with a real-world earthquake dataset containing information about seismic activities recorded across different regions and time periods. The main purpose of this task was to understand what the dataset represents, what type of information it contains, and how it can be used to study real-life problems related to natural disasters.
 
-## Dataset Source
+The dataset includes details such as earthquake magnitude, depth, latitude, longitude, location, and date/time of occurrence.
 
-[Earthquake Dataset]- ("https://raw.githubusercontent.com/MainakRepositor/Datasets/refs/heads/master/earthquakes.csv")
+**Dataset Source:**
+https://raw.githubusercontent.com/MainakRepositor/Datasets/master/Earthquake%20data.csv
 
-## Objective
+## Why i chose this dataset
 
-The objective of this project is to analyze earthquake data to understand seismic activity patterns, frequency of earthquakes, magnitude distribution, and high-risk zones.
-The insights derived from this analysis can help support disaster preparedness, risk assessment, early warning systems, and public safety planning.
+I chose this dataset because earthquakes are one of the most dangerous natural disasters and can cause massive loss of life and property. By analyzing earthquake data, we can understand patterns of seismic activity, identify high-risk areas, and support disaster preparedness and risk management efforts
+
+## What this data can help us find
+
+by this dataset, we can try to answer questions like?
+
+- Which regions experience earthquakes most frequently?
+- What is the distribution of earthquake magnitudes?
+- Are most earthquakes shallow or deep?
+- How has earthquake activity changed over time?
+
+## Goal of this task
+
+> To understand the earthquake dataset, interpret its real-world meaning, and define what kind of analysis can be performed in future tasks.
+
+## What i have learned from this task
+
+- How to interpret a dataset in a real-world context.
+- How to understand the background and purpose of a dataset.
+- The importance of defining clear objectives before starting analysis.
+
+## 📸 Task 1 Screenshots (Problem Understanding & Documentation)
+
+### Dataset Preview
+
+![Task 1 PPT](Images/DataSet.png)
+
+### PT Documentation
+
+![Dataset Preview](Images/import.png)
+
+### PT Documentation
+
+![Dataset Preview](Images/PPT.png)
 
 ## Project Structure
 
-Data/ : contains raw dataset files
+- Data/ : Contains raw dataset files
+- Images/ : Contains screenshots
 
-## Current Status
+---
 
-- Dataset Selected and reviewed
-- Initial project structure created
-- Documentation in progress
+## Conclusion
+
+This task helped me understand how earthquake data represents real-world seismic activity and its impact on society. Before performing any analysis, understanding the context and structure of the data is essential. This task provided a strong foundation for performing data cleaning, visualization, and advanced analysis in the next stages of the project.
